@@ -694,34 +694,4 @@ Possible extensions include:
 * Larger-scale IoT simulations.
 * Automated model retraining and validation.
 
----
 
-# 👥 Authors
-
-**Aditya [Surname]**
-[University / Department]
-[Email]
-
-**Anushka [Surname]**
-[University / Department]
-[Email]
-
----
-
-# 📄 Publication
-
-This repository accompanies the research work:
-
-> **Adaptive Multi-Layer Intrusion Detection System for Mist–Edge–Fog–Cloud IoT Architectures**
-
----
-
-# 📜 License
-
-Add an appropriate open-source license before publishing the repository, for example:
-
-```text
-MIT License
-```
-
-See `LICENSE` for details.
