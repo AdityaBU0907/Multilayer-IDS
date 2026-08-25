@@ -1,0 +1,23 @@
+# Build files
+build/
+out/
+
+# Python virtual environment
+venv/
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# OMNeT++ generated files
+*.vec
+*.sca
+*.elog
+*.eventlog
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store

@@ -1,0 +1,8 @@
+Configuration,Detection Rate,FP Rate,Avg Latency,Packet Loss,Throughput,Energy
+NoIDS,0.0%,0.00%,1.2 ms,0.10%,198 pkt/s,1.00×
+CloudOnly,88.0%,4.00%,85.0 ms,0.20%,185 pkt/s,1.02×
+MultiLayer,91.0%,3.00%,12.5 ms,0.20%,190 pkt/s,1.12×
+Adaptive,89.0%,3.50%,14.2 ms,0.30%,187 pkt/s,0.98×
+LatencyAware,90.0%,2.80%,9.8 ms,1.50%,178 pkt/s,1.08×
+Distillation,93.0%,2.50%,11.5 ms,0.20%,191 pkt/s,1.11×
+Combined,95.0%,2.00%,10.0 ms,1.20%,183 pkt/s,0.97×
